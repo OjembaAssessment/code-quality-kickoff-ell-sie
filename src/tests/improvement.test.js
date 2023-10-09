@@ -5,7 +5,7 @@ import function3 from "../improvement-3";
 const items = [
   {name: 'Carrot', type: 'Food'},
   {name: 'Mercedes', type: 'Car'},
-  {name: 'Tomato', type: 'Food'},
+  {name: 'Tomato', type: 'Food'}, 
   {name: 'Corn', type: 'Food'},
   {name: 'BMW', type: 'Car'}
 ];

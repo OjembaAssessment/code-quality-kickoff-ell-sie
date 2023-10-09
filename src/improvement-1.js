@@ -5,12 +5,12 @@
  */
 
 // FUNCTION 1
-export default function cntRbt(ls) {
-  var cnt = 0;
-  for (var i = 0; i < ls.length; i++) {
-    if (ls[i] == "R") {
-      cnt++;
+export default function Repetition(string) {
+  let count = 0;
+  for (let index = 0; index < string.length; index++) {
+    if (string[index] == "R") {
+      count++;
     }
   }
-  return cnt;
+  return count;
 }
